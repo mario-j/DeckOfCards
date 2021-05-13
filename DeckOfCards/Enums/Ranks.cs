@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DeckOfCards.Enums
 {
-	public enum RankEnum
+	public enum Ranks
 	{
 		Ace = 1,
 		Two = 2,

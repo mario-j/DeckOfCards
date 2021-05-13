@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DeckOfCards.Enums
 {
-	public enum SuitEnum
+	public enum Suits
 	{
 		Spades,
 		Clubs,
