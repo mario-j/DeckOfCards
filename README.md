@@ -34,3 +34,5 @@ Unit tests have been declared in the DeckOfCardsTests.cs class of the DeckOfCard
 Running the DeckOfCards console app executes the Main function in the Program.cs file.
 
 Currently this function declares a new deck of cards, shuffles the deck, and deals all of the cards in the deck. Each dealt card is printed to the console.
+
+The Development branch is for developing additional features. Those features then get merged into master. The main branch currently is not being used
