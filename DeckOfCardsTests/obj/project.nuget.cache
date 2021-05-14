@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gvw6WK+7CEIbuS04jIWFN4Q4gnEVpDvzgNaorPoGbx87mxat3bSHqb1SN38YuHqxTa1+0GzNovWIkPRy+MW5Lw==",
+  "dgSpecHash": "7GG272w2Rh1uyt85Vy+zqVwUsgNLv1ypHfXvRuDovtkRdRHUAWMm66X6RztmvbtGKZS/oAM/NcrKF0MnzmIvaQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mario\\source\\repos\\DeckOfCards\\DeckOfCardsTests\\DeckOfCardsTests.csproj",
   "expectedPackageFiles": [
@@ -66,7 +66,8 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
-    "C:\\Users\\Mario\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\Mario\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\Mario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
 }
