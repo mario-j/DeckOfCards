@@ -8,11 +8,9 @@ namespace DeckOfCards
 		static void Main(string[] args)
 		{
 			Deck deck = new Deck();
-			//PrintObjectProps(deck.DealOneCard());
-			//deck.Shuffle();
-			//PrintObjectProps(deck.DealOneCard());
+			deck.Shuffle();
 
-			for (int i = 0; i < 55; i++)
+			for (int i = 0; i < deck.Cards.Count; i++)
 			{
 				PrintObjectProps(deck.DealOneCard());
 			}

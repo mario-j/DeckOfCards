@@ -8,7 +8,7 @@ namespace DeckOfCards
 {
 	public class Deck
 	{
-		List<Card> Cards = new List<Card>();
+		public List<Card> Cards = new List<Card>();
 
 		public Deck()
 		{
